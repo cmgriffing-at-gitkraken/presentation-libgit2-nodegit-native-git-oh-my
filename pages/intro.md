@@ -46,8 +46,10 @@ I feel like the GitKraken thing is directly relevant to later parts of this talk
 transition: slide-left
 ---
 
-# Pre-existing blog post
+# Pre-existing blog posts
 
-Brief explainer that breaks down the relationship of libgit2 to nodegit
+- Brief explainer that breaks down the relationship of libgit2 to nodegit
+    - [https://www.gitkraken.com/blog/nodegit-libgit2](https://www.gitkraken.com/blog/nodegit-libgit2)
 
-[https://www.gitkraken.com/blog/nodegit-libgit2](https://www.gitkraken.com/blog/nodegit-libgit2)
+- Initial post about our migration plans
+    - [https://www.gitkraken.com/blog/gitkraken-client-migrating-from-libgit2-to-git-executable](https://www.gitkraken.com/blog/gitkraken-client-migrating-from-libgit2-to-git-executable)

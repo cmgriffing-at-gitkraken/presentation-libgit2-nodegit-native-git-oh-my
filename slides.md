@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+# background: https://cover.sli.dev
 # some information about your slides, markdown enabled
 title: LibGit2, NodeGit, Native Git, Oh my...
 info: |
@@ -57,6 +57,11 @@ layout: center
 
 ---
 src: ./pages/how-we-migrated.md
+layout: center
+---
+
+---
+src: ./pages/challenges.md
 layout: center
 ---
 

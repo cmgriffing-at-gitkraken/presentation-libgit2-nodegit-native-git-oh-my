@@ -5,7 +5,12 @@ transition: fade-out
 
 # LibGit2
 
-[https://github.com/libgit2](https://github.com/libgit2)
+- [https://libgit2.org](https://libgit2.org)
+- [https://github.com/libgit2](https://github.com/libgit2)
+
+<div class="w-100">
+ <img src="/images/libgit2-homepage.png" />
+</div>
 
 ---
 transition: fade-out
@@ -38,12 +43,15 @@ transition: fade-out
 Edward Thompson (core)
 [https://github.com/ethomson](https://github.com/ethomson)
 
-### Many others including GitKraken devs:
+### Many others including some GitKraken devs:
 
 - Ian Hattendorf
-[https://github.com/ianhattendorf](https://github.com/ianhattendorf)
+    - [https://github.com/ianhattendorf](https://github.com/ianhattendorf)
+- John Alden
+    - [https://github.com/zawata](https://github.com/zawata)
+- Julian Mesa
+    - [https://github.com/julianmesa-gitkraken](https://github.com/julianmesa-gitkraken)
 
-- \[MORE?\]
 
 
 ---

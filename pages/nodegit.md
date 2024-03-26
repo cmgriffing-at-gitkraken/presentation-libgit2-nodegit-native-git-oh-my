@@ -4,6 +4,13 @@ transition: fade-out
 
 # Nodegit
 
+- [https://nodegit.org](https://nodegit.org)
+- [https://github.com/nodegit](https://github.com/nodegit)
+
+<div class="w-100">
+ <img src="/images/nodegit-homepage.png" />
+</div>
+
 ---
 transition: fade-out
 ---

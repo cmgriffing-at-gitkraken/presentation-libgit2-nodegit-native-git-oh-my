@@ -30,11 +30,13 @@ transition: fade-out
 
 # Focus View
 
-[SCREENSHOT FROM GITKRAKEN]
+<div class="w-160">
+ <img src="/images/gkc-commit-details.png" />
+</div>
 
 
 ---
-transition: fade-out
+transition: slide-left
 ---
 
 # Pretty Much Everywhere
