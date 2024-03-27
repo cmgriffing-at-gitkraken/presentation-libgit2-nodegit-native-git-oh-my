@@ -40,6 +40,18 @@ transition: fade-out
 transition: slide-left
 ---
 
-# Current Progress
+# What's left?
 
-SOME IMAGE OR TEXT
+non-exhaustive list
+
+- x509 commit signing
+- delete local tag
+- stash (in progress)
+- partial stash
+- interactive rebase (in progress)
+- reword commit
+- amend commit
+- patch
+- local branch actions
+- remote branch actions
+- blame
