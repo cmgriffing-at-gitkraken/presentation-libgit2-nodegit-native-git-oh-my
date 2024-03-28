@@ -8,7 +8,7 @@ transition: fade-out
 transition: fade-out
 ---
 
-# Action Bar
+# Toolbar
 
 <div class="w-160">
  <img src="/images/gkc-action-bar.png" />
@@ -28,7 +28,7 @@ transition: fade-out
 transition: fade-out
 ---
 
-# Focus View
+# Commit Panel
 
 <div class="w-160">
  <img src="/images/gkc-commit-details.png" />

@@ -45,13 +45,13 @@ transition: slide-left
 non-exhaustive list
 
 - x509 commit signing
-- delete local tag
-- stash (in progress)
-- partial stash
-- interactive rebase (in progress)
-- reword commit
-- amend commit
-- patch
-- local branch actions
-- remote branch actions
-- blame
+- Delete local tag
+- Stash (in progress)
+- Partial stash
+- Interactive rebase (in progress)
+- Reword commit
+- Amend commit
+- Patch
+- Local branch actions
+- Remote branch actions
+- Blame
