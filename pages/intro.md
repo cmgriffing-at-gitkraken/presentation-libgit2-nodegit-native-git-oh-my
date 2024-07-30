@@ -28,6 +28,12 @@ GitKraken’s DevEx platform meets you & your team wherever you do your best wor
 
 GitKraken tools enable developers to find their flow by helping track all open items without being bombarded by noise. So you can avoid interruptions, distractions, and rework.
 
+-GitKraken
+-GitKraken Desktop
+-GitLens
+-GitKraken CLI
+-GitKraken Browser
+
 ---
 transition: slide-left
 ---
