@@ -24,23 +24,15 @@ transition: fade-out
 
 ## Developer Advocate at GitKraken
 
+GitKraken’s DevEx platform meets you & your team wherever you do your best work
+
+GitKraken tools enable developers to find their flow by helping track all open items without being bombarded by noise. So you can avoid interruptions, distractions, and rework.
+
+- GitKraken
 - GitKraken Desktop
 - GitLens
-    - VSCode
-    - more soon...
 - GitKraken CLI
 - GitKraken.dev
-    - Mobile Responsive
-
-<!-- 
-
-We want to meet developers where they are already.
-
-This is also my first role as a Developer Advocate, so I'm sorry if that felt like marketing.
-
-I feel like the GitKraken thing is directly relevant to later parts of this talk, though.
-
--->
 
 ---
 transition: slide-left
